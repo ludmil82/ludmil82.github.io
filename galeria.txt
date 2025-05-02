@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+  <meta charset="UTF-8">
+  <title>Галерия</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header><h1>Галерия</h1></header>
+  <nav>
+    <a href="index.html">Начало</a>
+    <a href="uslugi.html">Услуги</a>
+    <a href="galeria.html">Галерия</a>
+    <a href="bio.html">За мен</a>
+    <a href="kontakt.html">Контакти</a>
+  </nav>
+  <main>
+    <div class="gallery">
+      <img src="Багерна кофа.jpg" alt="Багерна кофа">
+      <img src="Кранова кука.jpg" alt="Кранова кука">
+      <img src="Кубче.jpg" alt="Кубче">
+      <img src="вал ел. двигател.png" alt="Вал ел. двигател">
+      <img src="Вал.png" alt="Вал">
+      <img src="Редуктор.png" alt="Редуктор">
+      <img src="Кран хидравличен.jpg" alt="Кран хидравличен">
+      <img src="Трупче.jpg" alt="Трупче">
+      <img src="Маховик.jpg" alt="Маховик">
+      <img src="Двигател.jpg" alt="Двигател">
+    </div>
+  </main>
+  <footer><p>&copy; 2025 Чертежи и проекти</p></footer>
+</body>
+</html>
